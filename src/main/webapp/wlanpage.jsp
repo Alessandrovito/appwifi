@@ -10,7 +10,7 @@
 </head>
 <body>
 
-<h2>Student Information</h2>
+<h2>Wlan Information</h2>
 <form:form method="POST" action="/spring-web/addStudent">
    <table>
     <tr>

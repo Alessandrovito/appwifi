@@ -14,7 +14,7 @@
 
 <h2>Wlan Information</h2>
 <div align="center">
-        <form:form action="setapplication" method="post" commandName="userForm">
+        <form:form action="appmain" method="post" commandName="confForm">
             <table border="0">
                 <tr>
                     <td colspan="2" align="center"><h2>Spring MVC Form Demo - Registration</h2></td>
